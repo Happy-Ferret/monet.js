@@ -11,7 +11,8 @@
     "type": "git",
     "url": "git@github.com:cwmyers/monet.js.git"
   },
-  "main": "dist/monet.js",
+  "main": "./dist/monet.js",
+  "types": "./dist/monet.d.ts",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
